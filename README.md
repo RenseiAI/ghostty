@@ -1,0 +1,2 @@
+# ghostty
+Rensei Ghostty Theme
